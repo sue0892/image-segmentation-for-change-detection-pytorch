@@ -3,7 +3,7 @@ This is the code for the paper: Detection of Detached Ice-fragments at Martian P
 
 ## Introduction
 This is a deep learning-driven change detection method for extracting the detached ice-fragments at martian polar scarps. The customized model is using:
-- ResU-Net architecture, which combines ResNet and U-Net;
+- ResU-Net architecture, which combines ResNet and U-Net
 - Siamese network architecture
 - An augmented attention module
 - A hybrid loss function: dice loss and focal loss
