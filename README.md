@@ -1,5 +1,5 @@
 # A deep learning-driven change detection model for martian surface segmentation
-This is the code for the paper: Detection of Detached Ice-fragments at Martian Polar Scarps Using a Convolutional Neural Network.
+This is the code for the paper: [Detection of Detached Ice-fragments at Martian Polar Scarps Using a Convolutional Neural Network.](10.1109/JSTARS.2023.3238968)
 
 ## Introduction
 This is a deep learning-driven change detection method for extracting the detached ice-fragments at martian polar scarps. The customized model is using:
@@ -16,3 +16,13 @@ A set of example is provided, but the entire dataset is currently not available 
 
 ## References
 If you find our work useful in your research, please consider citing:
+```
+@ARTICLE{10024321,
+  author={Su, Shu and Fanara, Lida and Xiao, Haifeng and Hauber, Ernst and Oberst, Jürgen},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
+  title={Detection of Detached Ice-fragments at Martian Polar Scarps Using a Convolutional Neural Network}, 
+  year={2023},
+  volume={16},
+  pages={1728-1739},
+  doi={10.1109/JSTARS.2023.3238968}}
+```
